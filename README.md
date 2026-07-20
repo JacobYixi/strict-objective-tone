@@ -23,4 +23,4 @@
 
 ## 许可证
 
-MIT 许可证 — 详见 [LICENSE](LICENSE)。
+Hippocratic License 3.0（希波克拉底许可证）— 详见 [LICENSE](LICENSE)。
